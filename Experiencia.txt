@@ -1,0 +1,2 @@
+python java ruby php html C++
+MySQL MariaDB MongoDB SQLite Oracle
